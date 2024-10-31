@@ -1,5 +1,5 @@
 Este es mi primer proyecto con Git
 El primer lunes del mes de abril de 1625, el burgo de Meung...
 
-NUEVA SECCIÓN
+CAPÍTULO DOS
 El señor Troisville, como todavía se llamaba su familia en Gascuña, o el señor de Tréville, como había terminado por llamarse él mismo en París...
